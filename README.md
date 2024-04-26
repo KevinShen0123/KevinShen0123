@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is Kevin! 23 years old
+Here is Kevin! 24 years old
 -🔭 I’m currently a second year ECE master of science student at Duke University
 -🌱 I’m currently working as a Backend Developer Intern at Aetna,a CVS health Company
 -👯 I’m actively looking for SDE new grad jobs starting 2024
