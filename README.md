@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here is Kevin! 25 years old
+Here is Kevin! 26 years old
 -🔭 I graduated from Duke University ECE ms program in 2024
 -🌱 I’m currently working as a Backend Developer  at Aetna,a CVS health Company
 -⚡ Fun fact:I love badminton, chess, eating delicious food, reading!
